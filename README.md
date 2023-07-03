@@ -1,4 +1,6 @@
 # Projeto-Spring Boot-MongoDB
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/MedeirosGiana/workshop-springboot-mongodb/main/LICENSE)
+
 
 ## Visão Geral do Sistema
 Projeto Java **version-17** desenvolvido com MongoDB e Spring Boot **version-3.1.1** para sistema de usuários com o seguinte contexto: **os usuários fazem postes e esses postes possuem comentários.**
